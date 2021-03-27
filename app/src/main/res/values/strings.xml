@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Search-kinopoisk</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
 </resources>
